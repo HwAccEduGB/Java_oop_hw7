@@ -24,4 +24,13 @@ public class ComplexNum {
     public void setImage(double image) {
         this.image = image;
     }
+
+    @Override
+    public String toString(){
+        if (image >= 0){
+            return real + "+" + image + "i";
+        }else {
+            return real + " - " + Math.abs(image) + "i";
+        }
+    }
 }
