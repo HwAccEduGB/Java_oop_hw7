@@ -2,3 +2,5 @@
 INFO: Log message
 мар. 21, 2024 7:20:03 PM impl.CalcComplex getLog
 INFO: result: 0.5188679245283019+0.0660377358490566i
+мар. 21, 2024 7:24:01 PM impl.CalcComplex getLog
+INFO: result: 0.6470588235294118+-0.4117647058823529i
